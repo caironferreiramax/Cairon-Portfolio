@@ -68,6 +68,16 @@ article > ul > li {
     flex-grow: 1;
 }
 
+.cairon-foto > img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #eee;
+    object-fit: cover;
+   
+
+}
+
 .card {
     background-color: white;
     padding: 20px;
