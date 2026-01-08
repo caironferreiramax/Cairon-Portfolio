@@ -42,7 +42,7 @@ a:hover {
     padding: 8px;
 }
 
-/* Parte principal da página*/
+/* Parte principal da página-Meio*/
 
 .container {
     display: flex;
@@ -65,6 +65,8 @@ ul > li {
     list-style-type: none;
     padding: 5px;
 }
+
+/* Parte final da página*/
 
 footer {
     background-color: #2c3e50;
