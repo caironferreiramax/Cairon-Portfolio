@@ -38,6 +38,14 @@
     transition: 0.3s;
 }
 
+.card {
+    background-color: white;
+    padding: 20px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgb(0,0,0,0.1); 
+}
+
 /* Imagens */
 
 img {
@@ -60,9 +68,10 @@ img {
     transition: 0.3s;
 }
 
-.rede-social {
+.instagram {
     text-decoration: none;
 }
+
 
 /* .cairon-foto {
     display: flex;
