@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(141, 156, 156);
+    background-color: rgb(141, 143, 156);
     width: 80vw;
     margin: auto;
 }
@@ -58,6 +58,13 @@ a:hover {
 .main-content > article > p, li {
     margin: 6px;
     word-spacing: 2px;
+}
+
+.main-content > article > h1, h2 {
+    background-color: #acc3da;
+    padding: 4px;
+    font-style: italic;
+    
 }
 
 .card {
